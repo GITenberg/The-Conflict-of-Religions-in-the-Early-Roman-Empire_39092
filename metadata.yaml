@@ -1,0 +1,29 @@
+_repo: The-Conflict-of-Religions-in-the-Early-Roman-Empire_39092
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39092-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Glover, T. R. (Terrot Reaveley)
+    alias: Glover, Terrot Reaveley
+    birthdate: 1869
+    deathdate: 1943
+    gutenberg_agent_id: '5009'
+    url: http://www.gutenberg.org/2009/agents/5009
+description: ''
+gutenberg_issued: '2012-03-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39092'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Church history -- Primitive and early church, ca. 30-600'
+- !lcsh 'Christianity and other religions'
+- !lcc 'BR'
+- !lcsh 'Rome -- Religion'
+title: The Conflict of Religions in the Early Roman Empire
+url: http://www.gutenberg.org/ebooks/39092
